@@ -1,0 +1,51 @@
+* {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	height: 100%;
+}
+
+.mainwrapper {
+	width: 100%;
+	height: 100%;
+	display: block;
+}
+
+.mainHead {
+	width: 100%;
+	height: 173px;
+	background-color: #444444;
+	display:block;
+}
+
+.firstleft {
+	width: 15%;
+	height: 852px;
+	background-color: #d8d8d8;
+	float: left;
+}
+
+.secondleft {
+	width: 70%;
+	height: 852px;
+	float: left;
+}
+
+.middletop {
+	width: 100%;
+	height: 770px;
+	background-color: #efefef;
+}
+
+.middlebottom {
+	width: 100%; 
+	height: 82px; 
+	background-color: #222222;
+}
+
+.thirdleft {
+	width: 15%;
+	height: 852px;
+	background-color: #d8d8d8;
+	float: left;
+}
