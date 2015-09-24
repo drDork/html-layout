@@ -1,0 +1,47 @@
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	height: 100%;
+}
+.masterd {
+	display:flex;
+}
+
+.lclm {
+	width: 33%;
+	height: 100%;
+	background-color: #4a90e2;
+	float: left;
+}
+
+.ctrclm {
+	width: 34%;
+	height: 100%;
+	background-color:#50e3c2;
+	margin:0 auto;
+}
+
+.rclm {
+	width: 33%;
+	height: 100%;
+	background-color: #505050;
+	float: right;
+}
+
+.top {
+	width: 100%;
+	height: 80%;
+	list-style-type: none;
+	background-color: #b8e986;
+}
+
+.bottom {
+	width: 100%;
+	height: 20%;
+	list-style-type: none;
+	background: url(http://blog.r-west.com/wp-content/uploads/2015/08/o-BILL-facebook.jpg);
+	background-repeat: no-repeat;
+	background-position:center;
+	background-size: 300%;
+}
